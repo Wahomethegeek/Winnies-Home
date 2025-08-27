@@ -2302,7 +2302,7 @@ strong {
   z-index: 0;
   border-radius: var(--r-20-px);
   opacity: 1;
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a579a32cad98e12061d0a7_background%201%2060%25.jpg");
+  background-image: url("../images/background-201-2060-25.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2322,7 +2322,7 @@ strong {
 
 .background._2 {
   opacity: 0;
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a579a32cad98e12061d0a7_background%201%2060%25.jpg");
+  background-image: url("../images/background-201-2060-25.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -2784,7 +2784,7 @@ strong {
   border-radius: var(--r-20-px);
   -webkit-backdrop-filter: blur(384px);
   backdrop-filter: blur(384px);
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a579a32cad98e12061d0a7_background%201%2060%25.jpg");
+  background-image: url("../images/background-201-2060-25.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2983,7 +2983,7 @@ strong {
 
 .video-review-wrapper {
   border-radius: var(--r-20-px);
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a0d426a4110396a26c8c7b_677bb796345804dec4cf2464_Img%202.webp");
+  background-image: url("../images/677bb796345804dec4cf2464_img-202.webp");
   background-position: 50%;
   background-size: cover;
   padding-top: 20px;
@@ -3151,7 +3151,7 @@ strong {
 
 .background-1 {
   border-radius: var(--r-20-px);
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a579a32cad98e12061d0a7_background%201%2060%25.jpg");
+  background-image: url("../images/background-201-2060-25.jpg");
   background-position: 50% 0;
   background-size: auto;
   margin: 5px;
@@ -3217,7 +3217,7 @@ strong {
   grid-column-gap: 20px;
   grid-row-gap: 20px;
   border-radius: var(--r-20-px);
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a579a32cad98e12061d0a7_background%201%2060%25.jpg");
+  background-image: url("../images/background-201-2060-25.jpg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -3340,7 +3340,7 @@ strong {
 }
 
 .footer-link.social-icon {
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a1ec47e31a6bf9108b9b0c_twitter.png");
+  background-image: url("../images/twitter.png");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: auto;
@@ -3755,7 +3755,7 @@ strong {
 .value-text-wrapper {
   border-radius: var(--r-20-px);
   text-align: left;
-  background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a096f9c0129e351981facc_6777c4313bde8c29c2759f95_BG%20Footer-p-130x130q80.png");
+  background-image: url("../images/6777c4313bde8c29c2759f95_bg-20footer-p-130x130q80.png");
   background-position: 50%;
   background-size: cover;
   flex-flow: column;
@@ -4814,7 +4814,7 @@ strong {
   }
 
   .video-review-wrapper {
-    background-image: url("https://cdn.prod.website-files.com/68a077d6abba88ce9c2d137d/68a0d426a4110396a26c8c7b_677bb796345804dec4cf2464_Img%202.webp");
+    background-image: url("../images/677bb796345804dec4cf2464_img-202.webp");
   }
 
   .menu-line.top {
